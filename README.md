@@ -55,4 +55,5 @@ La API estará corriendo en `http://localhost:8080`.
 >    **Nota importante:**  
 > Repositorio de Github para el trabajo práctico Spring-Boot FINAL        
 > Materia: Desarrollo de Software 3k10 - 2025  
-> Alumno: Gabriel Villalobos
+> Alumno: Federica Benito
+> Legajo: 50801
